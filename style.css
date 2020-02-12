@@ -37,7 +37,13 @@ input{
     background: none;
 }
 
+.button:hover{
+    transform: scale(1.4,1.4);
+    transition-duration: 500ms;
+}
+
 .button{
+    transition: ease-in-out;
     font: 400 1.5em 'Raleway', 'sans-serif';
     background: none;
     text-transform: uppercase;
