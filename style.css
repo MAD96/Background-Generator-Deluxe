@@ -24,3 +24,20 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+input:hover{
+    transform: scale(1.5,1.5);
+    transition-duration: 500ms;
+}
+
+input{
+    transition: ease-in-out;
+    border: solid rgba(255, 255, 255, 0.5) 3px;
+    background: none;
+}
+
+.button{
+    font: 400 1.5em 'Raleway', 'sans-serif';
+    text-transform: uppercase;
+    color: rgba(0,0,0,.5);
+}
