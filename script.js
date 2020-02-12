@@ -88,3 +88,5 @@ function copyElement(){
 color1.addEventListener("input",setGradient);
 color2.addEventListener("input",setGradient);
 color3.addEventListener("input",setGradient);
+
+button.addEventListener("click",copyElement);

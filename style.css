@@ -38,6 +38,7 @@ input{
 
 .button{
     font: 400 1.5em 'Raleway', 'sans-serif';
+    background: none;
     text-transform: uppercase;
     color: rgba(0,0,0,.5);
 }
