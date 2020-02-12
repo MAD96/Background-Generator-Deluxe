@@ -5,7 +5,8 @@ body{
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background: linear-gradient(to right,red,yellow);/*Standard*/
+   /* background: linear-gradient(to right,red,yellow);/*Standard*/
+    background: linear-gradient(to right, blue, magenta,red);
 }
 
 h1 {
@@ -42,3 +43,4 @@ input{
     text-transform: uppercase;
     color: rgba(0,0,0,.5);
 }
+    
